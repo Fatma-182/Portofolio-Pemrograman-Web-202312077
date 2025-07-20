@@ -14,4 +14,4 @@ Repositori ini berisi tugas-tugas praktikum Pemrograman Web dari Modul 1 sampai 
 ## 📌 Keterangan
 
 Setiap folder berisi file tugas dari masing-masing modul.  
-Repositori ini juga menggunakan Git & GitHub untuk version control, termasuk penggunaan branch, commit, dan pull request.
+Repositori ini menggunakan Git & GitHub sebagai kontrol versi dan dokumentasi tugas.
